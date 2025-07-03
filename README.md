@@ -22,3 +22,17 @@
 💻 Frontend:   React.js, TailwindCSS, Framer Motion, Zustand
 🛠️ Backend:    Node.js, Express.js, MongoDB, JWT, REST API
 🌐 Tools:      Git, GitHub, Vercel, Postman
+```
+## 📊 GitHub Stats
+
+![Haroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haroonkpk&show_icons=true&theme=radical)
+
+## 👑 GitHub Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=haroonkpk&theme=radical)](https://git.io/streak-stats)
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=haroonkpk&theme=react-dark&area=true)](https://activity-graph.herokuapp.com/graph?username=haroonkpk&theme=react-dark&area=true
+)
+
+
+
