@@ -31,8 +31,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=haroonkpk&theme=radical)](https://git.io/streak-stats)
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=haroonkpk&theme=react-dark&area=true)](https://activity-graph.herokuapp.com/graph?username=haroonkpk&theme=react-dark&area=true
-)
+This profile is maintained by [Haroon](https://github.com/haroonkpk), a MERN Stack Developer from Mardan.
+
 
 
 
