@@ -7,14 +7,6 @@
 
 ---
 
-### 💡 About Me
-
-- 🔭 I’m currently working on a full-featured **story-based MERN app**
-- 🌱 I’m currently learning **Next.js**, **TailwindCSS**, and **Framer Motion**
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, **Zustand**, or anything MERN-related
-- ⚡ Fun fact: I love turning ideas into working web products 🚀
-
----
 
 ### 🛠️ Tech Stack
 
