@@ -35,7 +35,6 @@
 
 </p>
 
-![Haroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haroonkpk&show_icons=true&theme=radical)
 
 ## 👑 GitHub Contribution Streak
 
