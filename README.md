@@ -81,12 +81,12 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎓 **SmartPrep** | AI-powered exam prep platform for VU students — 30+ subjects, Past Paper Analyzer, PDF Study Assistant | Next.js, LangChain, Gemini, Groq, Supabase |
-| 🌿 **Hashim Dawakhana** | Dynamic blogging system for a herbal store with smart admin panel & reorderable content blocks | Next.js, MongoDB, SWR, Cloudinary |
-| 💼 **Business-Nexus** | Real-time networking app connecting entrepreneurs & investors with live chat | React, Socket.io, Node.js, MongoDB |
-| 📖 **StoryHub** | Storytelling platform with episode management and admin panel | React, Node.js, MongoDB, Cloudinary |
+| Project | Description | Tech | Live |
+|--------|-------------|------|------|
+| 🎓 **SmartPrep** | AI-powered exam prep platform for VU students — 30+ subjects, Past Paper Analyzer, PDF Study Assistant | Next.js, LangChain, Gemini, Groq, Supabase | [🔗 Live](https://smart-prep-vu.vercel.app/) |
+| 🌿 **Hashim Dawakhana** | Dynamic blogging system for a herbal store with smart admin panel & reorderable content blocks | Next.js, MongoDB, SWR, Cloudinary | [🔗 Live](https://hashim-dawakhana.vercel.app/) |
+| 💼 **Business-Nexus** | Real-time networking app connecting entrepreneurs & investors with live chat | React, Socket.io, Node.js, MongoDB | [🔗 Live](#) |
+| 📖 **StoryHub** | Storytelling platform with episode management and admin panel | React, Node.js, MongoDB, Cloudinary | [🔗 Live](#) |
 
 ---
 
