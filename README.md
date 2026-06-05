@@ -77,18 +77,6 @@
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 </p>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech | Live |
-|--------|-------------|------|------|
-| 🎓 **SmartPrep** | AI-powered exam prep platform for VU students — 30+ subjects, Past Paper Analyzer, PDF Study Assistant | Next.js, LangChain, Gemini, Groq, Supabase | <a href="https://smart-prep-vu.vercel.app/" target="_blank">🔗 Live</a> |
-| 🌿 **Hashim Dawakhana** | Dynamic blogging system for a herbal store with smart admin panel & reorderable content blocks | Next.js, MongoDB, SWR, Cloudinary | <a href="https://hashim-dawakhana.vercel.app/" target="_blank">🔗 Live</a> |
-| 💼 **Business-Nexus** | Real-time networking app connecting entrepreneurs & investors with live chat | React, Socket.io, Node.js, MongoDB | <a href="#" target="_blank">🔗 Live</a> |
-| 📖 **StoryHub** | Storytelling platform with episode management and admin panel | React, Node.js, MongoDB, Cloudinary | <a href="#" target="_blank">🔗 Live</a> |
-
----
 
 ### 📊 GitHub Stats
 
