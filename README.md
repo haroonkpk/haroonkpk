@@ -81,8 +81,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-
+![Haroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haroonkpk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haroonkpk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=haroonkpk&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
